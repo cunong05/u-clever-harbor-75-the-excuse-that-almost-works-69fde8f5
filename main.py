@@ -3,6 +3,7 @@
 
 import os
 
+# The entry: one line, 17 words, plain text, reads like a hurried SMS.
 ENTRY = "sorry boss my keycard died in the update, security says new ones friday, locked out till then"
 
 
